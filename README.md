@@ -7,4 +7,4 @@ Features:
 - Scrolling animation
 - SEO optimization 
 
-Using a [Himalayas](https://justfreethemes.com/himalayas) as a base to work with.
+Using [Himalayas](https://justfreethemes.com/himalayas) as a base to work with.
